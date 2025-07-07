@@ -1,0 +1,8 @@
+game.characters
+game.characters.enemies
+game.collectibles
+game.controls
+game.hud
+game.levelLoader
+game.main
+game.platforms
