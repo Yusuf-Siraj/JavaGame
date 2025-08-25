@@ -1,4 +1,4 @@
-# JavaGame
+# "Tamaro's Adventure: The Invincible Jump" - A Java Game 
 A game called "Tamaro's Adventure: The Invincible Jump".
 
 This can be played immediately just buy downloading and unziping the file and then using a code editor on your PC or laptop to start playing. 
